@@ -1,13 +1,13 @@
 en:  "Loading latest creature data..",
-nl:  "",
+nl:  "Nieuwste schepsel-data laden..",
 
 //Menu entries
 en:  "Pro Version (Ad free)",
-nl:  "",
+nl:  "Pro-Versie (Reclame-vrij)",
 en:  "Dashboard",
-nl:  "",
+nl:  "Dashboard",
 en:  "Taming Calculator",
-nl:  "",
+nl:  "Temmen Berekenaar",
 en:  "Breeding Calculator",
 nl:  "",
 en:  "Engram Calculator",
